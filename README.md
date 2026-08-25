@@ -1,16 +1,55 @@
-# React + Vite
+# ☕ Coffee Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Премиальный адаптивный сайт кофейни на React + Vite.
 
-Currently, two official plugins are available:
+Этот проект создан как **универсальный freelance-шаблон**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Идея простая:
 
-## React Compiler
+> Не переписывать сайт для каждого клиента с нуля.  
+> Менять данные, изображения и тему, сохраняя готовую архитектуру и компоненты.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## ✨ Возможности
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Адаптивный дизайн
+- Русский / казахский язык
+- Мобильное меню
+- Меню с категориями
+- Заказ через WhatsApp
+- Instagram
+- Telegram
+- Секция «О нас»
+- Галерея
+- Специальное предложение
+- Отзывы
+- Контакты
+- Footer
+- Hover-эффекты
+- Анимации при появлении секций
+- Поддержка `prefers-reduced-motion`
+- Централизованная система тем
+- Данные клиента отделены от компонентов
+- Готовность к деплою на Vercel
+
+---
+
+# 🚀 Запуск проекта
+
+## Требования
+
+Перед началом убедитесь, что установлены:
+
+- Node.js
+- npm
+- Git
+
+---
+
+## Установка
+
+Клонируем репозиторий:
+
+```bash
+git clone https://github.com/emptyrtxjj-rgb/coffee-template.git
